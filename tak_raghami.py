@@ -7,9 +7,9 @@ count = 0
 for i in x:
         i = int(i)
         count += i
-        print(count)
+        #print(count)
      
 x = str(count)
 
-           
+print(count)           
 print(len(str(count)))
